@@ -1,4 +1,5 @@
-# reprograma-CV
+# reprograma-CV  - hackathon diferente 
+
 Código criado para a página de currículos da {reprograma}
 
 ## Orientações github
